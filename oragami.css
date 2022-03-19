@@ -1,0 +1,13 @@
+body{
+    background-color: cornflowerblue;
+}
+
+img{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h2{
+    color: white;
+    margin-left: 550px;
+}
